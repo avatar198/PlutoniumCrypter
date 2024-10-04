@@ -19,4 +19,6 @@ After encryption [0 detection]
 -
 https://www.virustotal.com/gui/file/cbaa715d99a26adea5c8fd9a605d668e3f11e9b84e763861e97c3d0a9b0a20ae
 
-You can contact me on discord because telegram is leaked: @avatar2211_04070
+You can contact me on discord because telegram is leaked: 
+
+https://discord.gg/nddFQGe2SH
